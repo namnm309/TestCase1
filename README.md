@@ -11,5 +11,5 @@
 ![JUnit with TDD DDT](https://github.com/namnm309/TestCase1/blob/main/img/Demo.png)
 
 ### Connect me via namnm309@gmail.com
-#### &#169; 2025 vĩnh.khang
+#### &#169; 2025 Minh.Nam
 
