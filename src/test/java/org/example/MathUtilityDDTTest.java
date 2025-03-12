@@ -23,7 +23,6 @@ class MathUtilityDDTTest {
         };
     }
 
-
     @ParameterizedTest
     @MethodSource("initData")
     public void testFactorialGivenRightArgRunsWell(int n, long expectedResult){
