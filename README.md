@@ -1,3 +1,5 @@
+[![Math Utility Project (CI included) | © 2025 by namnm309](https://github.com/namnm309/TestCaseDemo/actions/workflows/maven.yml/badge.svg)](https://github.com/namnm309/TestCaseDemo/actions/workflows/maven.yml)
+
 # Welcome to Math Utility Repository
 
 ## You will find in this repo the following stuff:
