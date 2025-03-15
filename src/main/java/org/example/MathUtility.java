@@ -18,7 +18,7 @@ public class MathUtility {
         //STEP / PROCEDURE
 
     //Code các test case để test hàm chạy đúng sai - thực hành tdd
-    //😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊🤣🤣🤣🤣🤣🤣👍👍👍👍
+    //😊😊😊😊😊😊😊😊🤣🤣🤣🤣🤣🤣🤣🤣👍👍👍👍👍👍👍👍
     public static long getFactorial(int n){
         if (n < 0 || n > 20) {
             //return -1;
@@ -37,5 +37,9 @@ public class MathUtility {
         }
         return result;
     }
+
+
+
+
 
 }
